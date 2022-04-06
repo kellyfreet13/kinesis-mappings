@@ -3,8 +3,8 @@
 [tab]>[=]
 [hyphen]>[\]
 [\]>[hyphen]
-[alt]>[escape]
-[delete]>[alt]
+[lalt]>[escape]
+[delete]>[lalt]
 [rctrl]>[rcmd]
 [rcmd]>[rctrl]
 {obrack}>{-lshift}{obrack}{+lshift}
