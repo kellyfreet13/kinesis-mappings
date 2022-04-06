@@ -1,6 +1,6 @@
-[+]>[caps]
+[=]>[caps]
 [caps]>[tab]
-[tab]>[+]
+[tab]>[=]
 [hyphen]>[\]
 [\]>[hyphen]
 [alt]>[escape]
